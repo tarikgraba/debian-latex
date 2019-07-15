@@ -10,5 +10,6 @@ RUN apt-get update \
     inkscape \
     gnuplot \
     python-pygments \
+    python3-pygments \
     && apt-get clean
 
