@@ -5,6 +5,7 @@ To build a docker image to automatically compile Latex files.
 - Based on debian:stable-slim
 - adds:
    * texlive-full
+   * fonts-inconsolata
    * latexmk
    * xfig
    * inkscape

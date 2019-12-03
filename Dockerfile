@@ -12,5 +12,6 @@ RUN apt-get update \
     python-pygments \
     python3-pygments \
     source-highlight \
+    fonts-inconsolata \
     && apt-get clean
 
