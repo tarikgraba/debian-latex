@@ -11,5 +11,6 @@ RUN apt-get update \
     gnuplot \
     python-pygments \
     python3-pygments \
+    source-highlight \
     && apt-get clean
 

@@ -10,6 +10,7 @@ To build a docker image to automatically compile Latex files.
    * inkscape
    * gnuplot
    * python-pygments (required by minted)
+   * source-highlight
 - plus some tools:
    * make
    * git
