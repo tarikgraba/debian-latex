@@ -13,5 +13,6 @@ RUN apt-get update \
     python3-pygments \
     source-highlight \
     fonts-inconsolata \
+    auto-multiple-choice-common \
     && apt-get clean
 
