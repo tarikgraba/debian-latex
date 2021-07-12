@@ -9,7 +9,6 @@ RUN apt-get update \
     xfig \
     inkscape \
     gnuplot \
-    python-pygments \
     python3-pygments \
     source-highlight \
     fonts-inconsolata \
