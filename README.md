@@ -2,7 +2,7 @@
 
 To build a docker image to automatically compile Latex files.
 
-- Based on debian:stable-slim
+- Based on debian:bullseye-slim
 - adds:
    * texlive-full
    * fonts-inconsolata
