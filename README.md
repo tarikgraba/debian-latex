@@ -13,6 +13,7 @@ To build a docker image to automatically compile Latex files.
    * python-pygments (required by minted)
    * source-highlight
 - auto-multiple-choice-common
+- libreoffice draw (nogui)
 - plus some tools:
    * make
    * git

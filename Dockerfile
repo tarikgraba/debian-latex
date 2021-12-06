@@ -12,6 +12,7 @@ RUN apt-get update \
     python3-pygments \
     source-highlight \
     fonts-inconsolata \
+    libreoffice-draw-nogui\
     auto-multiple-choice-common \
     && apt-get clean
 
