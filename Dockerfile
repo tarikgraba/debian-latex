@@ -14,5 +14,8 @@ RUN apt-get update \
     fonts-inconsolata \
     libreoffice-draw-nogui\
     auto-multiple-choice-common \
+    python3-icalendar \
+    python3-requests \
+    python3-unidecode \
     && apt-get clean
 
