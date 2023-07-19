@@ -12,6 +12,7 @@ RUN apt-get update \
     python3-pygments \
     source-highlight \
     fonts-inconsolata \
+    fonts-opendyslexic \
     libreoffice-draw-nogui\
     auto-multiple-choice-common \
     python3-icalendar \
