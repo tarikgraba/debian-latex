@@ -4,7 +4,22 @@ RUN apt-get update \
     && apt-get install -y \
     make \
     git\
-    texlive-full \
+    texlive \
+    texlive-xetex \
+    texlive-luatex \
+    texlive-bibtex-extra \
+    texlive-extra-utils \
+    texlive-font-utils \
+    texlive-fonts-extra \
+    texlive-formats-extra \
+    texlive-lang-all \
+    texlive-metapost \
+    texlive-music \
+    texlive-pstricks \
+    texlive-games \
+    texlive-humanities \
+    texlive-publishers \
+    texlive-science \
     latexmk \
     xfig \
     inkscape \
