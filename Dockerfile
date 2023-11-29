@@ -20,6 +20,7 @@ RUN apt-get update \
     texlive-humanities \
     texlive-publishers \
     texlive-science \
+    biber \
     latexmk \
     xfig \
     inkscape \
