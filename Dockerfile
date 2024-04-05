@@ -22,7 +22,7 @@ RUN apt-get update \
     texlive-science \
     biber \
     latexmk \
-    pandoc \
+    pandoc librsvg2-bin\
     xfig \
     inkscape \
     gnuplot \
