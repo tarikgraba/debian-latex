@@ -35,6 +35,6 @@ RUN apt-get update \
     python3-icalendar \
     python3-requests \
     python3-unidecode \
-    wget curl \
+    wget curl rsync \
     && apt-get clean
 
