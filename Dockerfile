@@ -35,7 +35,7 @@ RUN apt-get update \
     python3-icalendar \
     python3-requests \
     python3-unidecode \
-    python3-pip python3-pip-whl \
+    python3-venv python3-pip python3-pip-whl \
     wget curl rsync \
     && apt-get clean
 
