@@ -37,5 +37,6 @@ RUN apt-get update \
     python3-unidecode \
     python3-venv python3-pip python3-pip-whl \
     wget curl rsync \
-    && apt-get clean
+    && apt-get clean \
+    && rm -fr /usr/share/doc/texlive-doc
 
